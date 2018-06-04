@@ -4,7 +4,7 @@
 int main()
 {
     initscr();                   
-    printw("Hello world!\n");  
+    printw("Hello w!\n");  
     refresh();                   
     getch();                    
     endwin();                    
